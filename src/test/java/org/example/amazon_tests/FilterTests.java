@@ -1,6 +1,5 @@
 package org.example.amazon_tests;
 
-import org.example.amazon_page_object.SearchResultsPage;
 import org.example.amazon_page_object.TopBar;
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
