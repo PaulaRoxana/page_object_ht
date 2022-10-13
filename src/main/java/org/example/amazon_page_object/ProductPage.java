@@ -1,12 +1,10 @@
 package org.example.amazon_page_object;
 
-
 import org.openqa.selenium.WebDriver;
 
-public class HomePage extends BasePage{
+public class ProductPage extends BasePage{
 
-
-    public HomePage(WebDriver driver) {
+    public ProductPage(WebDriver driver) {
         super(driver);
     }
 }
