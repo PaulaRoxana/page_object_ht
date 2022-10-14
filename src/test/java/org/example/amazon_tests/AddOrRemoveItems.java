@@ -1,7 +1,6 @@
 package org.example.amazon_tests;
 
 import org.example.amazon_page_object.CartPage;
-import org.example.amazon_page_object.HomePage;
 import org.example.amazon_page_object.TopBar;
 import org.example.modules.ConfirmationMessage;
 import org.testng.Assert;
